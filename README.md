@@ -41,6 +41,10 @@ For checking all the Users registered in database we can use the following url, 
 
 <b> Image Upload
 
+Adding token header
+![Screenshot (168)](https://user-images.githubusercontent.com/46764087/210900546-a579f0f1-d2d6-4cf9-8b5e-4f42f3f45e74.png)
+
+  
 ![Screenshot (165)](https://user-images.githubusercontent.com/46764087/210899359-45bb62e4-4f2e-4720-aeba-2075b5b0e835.png)
 
 As throttle limit is 3 request per minute. If we exceed the limit it will display following error:
