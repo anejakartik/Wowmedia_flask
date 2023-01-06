@@ -1,8 +1,7 @@
 # Wowmedia Application
 
-As mentioned in mini task performs JWT authentication and allows user to send images through an api with throttle limit of 5 request per minute.
+As mentioned in mini task performs JWT authentication and allows user to send images through an api with throttle limit of 3 request per minute.
 
-This App is Hosted in GCP
 
 # Application Guide
 
